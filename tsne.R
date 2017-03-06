@@ -48,11 +48,11 @@ perplIter <- c(5,10,20,30,40,50,60,70,80,90,100)
   clusterCut <- cutree(testClust, 5)
   
   withRoles$clust <- clusterCut
-  
+  width <- 800
 open3d()
-
-plot3d(select(withRoles, X,Y,Z), type="p", radius=0.1, axes=F, col = as.factor(withRoles$clust),
-        expand = 0, xlab = "Mean X position", ylab = "Mean Y position", zlab = "Average distac")
-
+par3d(windowRect = 50 + c( 0, 0, width, width ) )
+plot3d(select(withRoles, X,Y,Z), type="p", radius=0.1, axes=F, col = as.factor(withRoles$label),
+        expand = 0, xlab = "X", ylab = "Y", zlab = "Z")
+movie3d( spin3d(rpm = 6), duration=10, fps = 10, dir="gif/", clean=FALSE, type = "gif")
 
 ggplot(tsneOut, aes(X,Y)) + geom_point(aes(color = as.factor(label))) + ggtitle(paste("t-SNE with perplexity", i))

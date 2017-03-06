@@ -26,7 +26,7 @@ gameListDF <- arrange(gameListDF, match_id)
 finalList <- NULL
 
 # Iterate through all the games we have
-for (i in 5366:nrow(gameListDF)) {
+for (i in 1:nrow(gameListDF)) {
   
   print(paste("Parsing game: ", i))
   matchID <- gameListDF[i, "match_id"]
