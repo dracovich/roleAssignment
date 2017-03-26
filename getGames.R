@@ -13,7 +13,7 @@ options("scipen"=10)
 numMatches <- 100000
 
 # Create SQL query text
-sqlQuery <- paste("select  * from public_matches where start_time > 1486583036 AND duration > 900 AND avg_mmr > 2500 AND num_mmr > 6 limit ",
+sqlQuery <- paste("select  * from public_matches where start_time > 1486583036 AND duration > 900 AND  num_mmr > 6 limit ",
                   numMatches, ";", sep = "")
 
 # Execute query on opendota API
