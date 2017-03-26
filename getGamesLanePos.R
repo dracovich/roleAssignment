@@ -11,10 +11,10 @@ library(reshape2)
 options("scipen"=10)
 
 # Number of matchIDs to extract
-numMatches <- 30000
+numMatches <- 10000
 
 # Create SQL query text
-sqlQuery <- paste("select  * from public_matches where start_time > 1486583036 AND duration > 900 AND avg_mmr > 2500 AND num_mmr > 6 limit ",
+sqlQuery <- paste("select  * from public_matches where start_time > 1488384505 AND duration > 900 AND num_mmr > 6 limit ",
                   numMatches, ";", sep = "")
 
 # Execute query on opendota API
@@ -24,6 +24,7 @@ gameListDF <- gameList$rows
 gameListDF <- arrange(gameListDF, match_id)
 
 # Initialize the dataframe
+count <- 1
 finalList <- NULL
 
 # Iterate through all the games we have
@@ -98,7 +99,31 @@ for (i in 1:nrow(gameListDF)) {
   
   # Iterate through each player, getting the values we need.
   for(j in 1:10) {
-
+    # Number of bounty runes before 10 minute mark
+    runeList <- as.data.frame(readJSON$players$runes_log[j])
+    if (nrow(runeList) > 0) {
+      bountyRunes <- nrow(subset(runeList, runeList$key == 5 & runeList$time <600))
+    } else {
+      bountyRunes <- 0
+    }
+    
+    # Total number of wards bought the first 20 minutes
+    purchaseLog <- as.data.frame(readJSON$players$purchase_log[j])
+    
+    if (nrow(purchaseLog) > 0) {
+      wardsOnly <- subset(purchaseLog, 
+                          (purchaseLog$key == "ward_sentry" | purchaseLog$key == "ward_observer") &
+                            purchaseLog$time < 1200)
+      
+      if (nrow(wardsOnly) > 0) {
+        wardsBought <- nrow(wardsOnly)
+      } else {
+        wardsBought <- 0
+      }
+    } else {
+      wardsBought <- 0
+    }
+    
     # Create a list of lane position first 10 minutes of game
     heroLanePos <- flatten(lanePosList[j,])
     lanePosLong <- as.data.frame(gather(heroLanePos))
@@ -116,18 +141,33 @@ for (i in 1:nrow(gameListDF)) {
     lanePosFinal$heroID <- readJSON$players$hero_id[j]
     lanePosFinal$playerSlot <- readJSON$players$player_slot[j]
     lanePosFinal$lane <- readJSON$players$lane[j]
+    # Calculate weighted mid point of the lane position
+    meanPos <- data.frame(meanX = weighted.mean(lanePosFinal$x, lanePosFinal$value), 
+                          meanY = weighted.mean(lanePosFinal$y, lanePosFinal$value))
+    
+    lanePosFinal$medDist <- sqrt((lanePosFinal$x - meanPos$meanX)^2 + (lanePosFinal$y - meanPos$meanY)^2)
+
+    lanePosFinal$meanX <- meanPos$meanX
+    lanePosFinal$meanY <- meanPos$meanY
+    
+    # Calculate distance of each point from the median
+    lanePosFinal$avgDistMed <- weighted.mean(lanePosFinal$medDist, lanePosFinal$value)
+    
+    lanePosFinal$gold <- unlist(readJSON$players$gold_t[j])[11] 
+    lanePosFinal$xp <- unlist(readJSON$players$xp_t[j])[11]
+    lanePosFinal <- select(lanePosFinal, -medDist)
+    
+    lanePosFinal$lastHits <- unlist(readJSON$players$lh_t[j])[11]
+    lanePosFinal$deny <- unlist(readJSON$players$dn_t[j])[11]
     
     # long to wide format
     finalWide <- dcast(lanePosFinal,
-                       matchID + heroID + playerSlot + lane ~ x + y,
+                       matchID + heroID + playerSlot + lane + meanX + meanY + 
+                       avgDistMed + gold + xp + lastHits + deny ~ x + y,
                        value.var = "value")
-    
-    # Output the player to finalList
-    if (is.null(finalList)) {
-      finalList <- finalWide
-    } else {
-      finalList <- rbind.fill(finalList, finalWide)
-    }
+
+    finalList[[count]] <- finalWide
+    count <- count + 1
   }
   print(paste("      replay parsed!"))
   
@@ -140,8 +180,10 @@ for (i in 1:nrow(gameListDF)) {
   }
 }
 
-finalList$side <- ifelse(finalList$playerSlot < 10, "Radiant", "Dire")
-finalList[is.na(finalList)] <- 0
+finalListComplete <- rbindlist(finalList, fill = TRUE)
+
+finalListComplete$side <- ifelse(finalListComplete$playerSlot < 10, "Radiant", "Dire")
+finalListComplete[is.na(finalListComplete)] <- 0
 
 # Save the file
-saveRDS(finalList, "matches.RDS")
+saveRDS(finalListComplete, "matches.RDS")
