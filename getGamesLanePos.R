@@ -11,10 +11,10 @@ library(reshape2)
 options("scipen"=10)
 
 # Number of matchIDs to extract
-numMatches <- 10000
+numMatches <- 30000
 
 # Create SQL query text
-sqlQuery <- paste("select  * from public_matches where start_time > 1488384505 AND duration > 900 AND num_mmr > 6 limit ",
+sqlQuery <- paste("select  * from public_matches where start_time > 1490200516 AND duration > 900 AND num_mmr > 6 limit ",
                   numMatches, ";", sep = "")
 
 # Execute query on opendota API
@@ -25,7 +25,7 @@ gameListDF <- arrange(gameListDF, match_id)
 
 # Initialize the dataframe
 count <- 1
-finalList <- NULL
+finalList <- list()
 
 # Iterate through all the games we have
 for (i in 1:nrow(gameListDF)) {
@@ -52,7 +52,7 @@ for (i in 1:nrow(gameListDF)) {
       print(proc.time()[3] - startTime)
       next
     } else {
-      Sys.sleep(1.05-totTime)
+      Sys.sleep(1.00-totTime)
       print(proc.time()[3] - startTime)
       next
     }
@@ -69,7 +69,7 @@ for (i in 1:nrow(gameListDF)) {
       print(proc.time()[3] - startTime)
       next
     } else {
-      Sys.sleep(1.05-totTime)
+      Sys.sleep(1.00-totTime)
       print(proc.time()[3] - startTime)
       next
     }
@@ -88,7 +88,7 @@ for (i in 1:nrow(gameListDF)) {
       print(proc.time()[3] - startTime)
       next
     } else {
-      Sys.sleep(1.05-totTime)
+      Sys.sleep(1.00-totTime)
       print(proc.time()[3] - startTime)
       next
     }
@@ -160,9 +160,11 @@ for (i in 1:nrow(gameListDF)) {
     lanePosFinal$lastHits <- unlist(readJSON$players$lh_t[j])[11]
     lanePosFinal$deny <- unlist(readJSON$players$dn_t[j])[11]
     
+    lanePosFinal$is_roaming <- unlist(readJSON$players$is_roaming[j])
+    
     # long to wide format
     finalWide <- dcast(lanePosFinal,
-                       matchID + heroID + playerSlot + lane + meanX + meanY + 
+                       matchID + heroID + playerSlot + lane + is_roaming + meanX + meanY + 
                        avgDistMed + gold + xp + lastHits + deny ~ x + y,
                        value.var = "value")
 
@@ -175,7 +177,7 @@ for (i in 1:nrow(gameListDF)) {
   totTime <- endTime - startTime
   
   if (totTime < 1) {
-    Sys.sleep(1.05-totTime)
+    Sys.sleep(1.00-totTime)
     print(proc.time()[3] - startTime)
   }
 }
