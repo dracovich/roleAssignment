@@ -11,10 +11,10 @@ library(reshape2)
 options("scipen"=10)
 
 # Number of matchIDs to extract
-numMatches <- 30000
+numMatches <- 40000
 
 # Create SQL query text
-sqlQuery <- paste("select  * from public_matches where start_time > 1490200516 AND duration > 900 AND num_mmr > 6 limit ",
+sqlQuery <- paste("select  * from public_matches where start_time > 1489603743 AND duration > 900 AND num_mmr > 6 limit ",
                   numMatches, ";", sep = "")
 
 # Execute query on opendota API
