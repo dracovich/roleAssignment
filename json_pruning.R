@@ -38,9 +38,15 @@ for(j in 1:10) {
   hero_lane_pos <- flatten(lane_pos_list[j,])
   lane_pos_long <- as.data.frame(gather(hero_lane_pos))
   if(length(lane_pos_long) > 0) {
-    lane_pos_long <- subset(lane_pos_long, !is.na(lane_pos_long$value)) } else {
-      next
-    }
+    lane_pos_long <- subset(lane_pos_long, !is.na(lane_pos_long$value)) 
+  } else {
+    next
+  }
+  
+  # Sometimes the list is all NA for some reason, which breaks the program.
+  if (nrow(lane_pos_long) == 0) {
+    next
+  }
   
   # We get output in weird format, so i have to do some string work to get the x and y coordintes
   lane_pos_long$x <- as.numeric(substr(lane_pos_long$key, 
