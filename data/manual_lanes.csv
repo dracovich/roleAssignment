@@ -1,0 +1,1001 @@
+matchID,heroID,side,heroName,Lane,Role
+3071208705,70,Radiant,Ursa,Safe,Core
+3071208705,87,Radiant,Disruptor,Roamer,Support
+3071208705,108,Radiant,Underlord,Off,Core
+3071208705,5,Radiant,Crystal Maiden,Roamer,Support
+3071208705,74,Radiant,Invoker,Mid,Core
+3071208705,60,Dire,Night Stalker,Safe,Support
+3071208705,91,Dire,Io,Safe,Support
+3071208705,35,Dire,Sniper,Mid,Core
+3071208705,104,Dire,Legion Commander,Off,Core
+3071208705,48,Dire,Luna,Safe,Core
+3071209305,28,Radiant,Slardar,Off,Core
+3071209305,40,Radiant,Venomancer,Off,Support
+3071209305,11,Radiant,Shadow Fiend,Mid,Core
+3071209305,86,Radiant,Rubick,Safe,Support
+3071209305,1,Radiant,Anti-Mage,Safe,Core
+3071209305,6,Dire,Drow Ranger,Safe,Core
+3071209305,96,Dire,Centaur Warrunner,Off,Core
+3071209305,35,Dire,Sniper,Mid,Core
+3071209305,62,Dire,Bounty Hunter,Roamer,Support
+3071209305,75,Dire,Silencer,Safe,Support
+3071212104,14,Radiant,Pudge,Roamer,Support
+3071212104,28,Radiant,Slardar,Off,Core
+3071212104,93,Radiant,Slark,Safe,Core
+3071212104,36,Radiant,Necrophos,Mid,Core
+3071212104,86,Radiant,Rubick,Safe,Support
+3071212104,90,Dire,Keeper of the Light,Safe,Support
+3071212104,10,Dire,Morphling,Safe,Core
+3071212104,62,Dire,Bounty Hunter,Roamer,Support
+3071212104,97,Dire,Magnus,Mid,Core
+3071212104,102,Dire,Abaddon,Off,Core
+3071214503,86,Radiant,Rubick,Roamer,Support
+3071214503,104,Radiant,Legion Commander,Mid,Core
+3071214503,96,Radiant,Centaur Warrunner,Off,Core
+3071214503,27,Radiant,Shadow Shaman,Roamer,Support
+3071214503,8,Radiant,Juggernaut,Safe,Core
+3071214503,90,Dire,Keeper of the Light,Roamer,Support
+3071214503,54,Dire,Lifestealer,Safe,Core
+3071214503,97,Dire,Magnus,Off,Core
+3071214503,79,Dire,Shadow Demon,Safe,Support
+3071214503,46,Dire,Templar Assassin,Mid,Core
+3071214804,4,Radiant,Bloodseeker,Jungle,Core
+3071214804,76,Radiant,Outworld Devourer,Mid,Core
+3071214804,112,Radiant,Winter Wyvern,Mid,Support
+3071214804,98,Radiant,Timbersaw,Off,Core
+3071214804,48,Radiant,Luna,Safe,Core
+3071214804,30,Dire,Witch Doctor,Safe,Support
+3071214804,14,Dire,Pudge,Roamer,Support
+3071214804,72,Dire,Gyrocopter,Safe,Core
+3071214804,11,Dire,Shadow Fiend,Mid,Core
+3071214804,41,Dire,Faceless Void,Off,Core
+3071215804,35,Radiant,Sniper,Mid,Core
+3071215804,28,Radiant,Slardar,Off,Support
+3071215804,55,Radiant,Dark Seer,Off,Core
+3071215804,102,Radiant,Abaddon,Safe,Support
+3071215804,8,Radiant,Juggernaut,Safe,Core
+3071215804,93,Dire,Slark,Safe,Core
+3071215804,9,Dire,Mirana,Mid,Support
+3071215804,97,Dire,Magnus,Off,Core
+3071215804,11,Dire,Shadow Fiend,Mid,Core
+3071215804,26,Dire,Lion,Safe,Support
+3071216402,6,Radiant,Drow Ranger,Safe,Core
+3071216402,63,Radiant,Weaver,Off,Core
+3071216402,77,Radiant,Lycan,Jungle,Core
+3071216402,47,Radiant,Viper,Mid,Core
+3071216402,14,Radiant,Pudge,Safe,Support
+3071216402,114,Dire,Monkey King,Off,Core
+3071216402,56,Dire,Clinkz,Jungle,Core
+3071216402,41,Dire,Faceless Void,Safe,Core
+3071216402,11,Dire,Shadow Fiend,Mid,Core
+3071216402,30,Dire,Witch Doctor,Safe,Support
+3071217209,93,Radiant,Slark,Safe,Core
+3071217209,104,Radiant,Legion Commander,Off,Core
+3071217209,71,Radiant,Spirit Breaker,Roamer,Support
+3071217209,30,Radiant,Witch Doctor,Safe,Support
+3071217209,11,Radiant,Shadow Fiend,Mid,Core
+3071217209,74,Dire,Invoker,Mid,Core
+3071217209,26,Dire,Lion,Roamer,Support
+3071217209,2,Dire,Axe,Jungle,Core
+3071217209,96,Dire,Centaur Warrunner,Off,Core
+3071217209,8,Dire,Juggernaut,Safe,Core
+3071218205,94,Radiant,Medusa,Mid,Core
+3071218205,35,Radiant,Sniper,Safe,Core
+3071218205,14,Radiant,Pudge,Roamer,Support
+3071218205,9,Radiant,Mirana,Off,Core
+3071218205,62,Radiant,Bounty Hunter,Roamer,Support
+3071218205,28,Dire,Slardar,Safe,Core
+3071218205,11,Dire,Shadow Fiend,Mid,Core
+3071218205,102,Dire,Abaddon,Off,Core
+3071218205,86,Dire,Rubick,Safe,Support
+3071218205,2,Dire,Axe,Jungle,Core
+3071220802,2,Radiant,Axe,Off,Core
+3071220802,11,Radiant,Shadow Fiend,Mid,Core
+3071220802,86,Radiant,Rubick,Roamer,Support
+3071220802,20,Radiant,Vengeful Spirit,Safe,Support
+3071220802,41,Radiant,Faceless Void,Safe,Core
+3071220802,97,Dire,Magnus,Off,Core
+3071220802,74,Dire,Invoker,Mid,Core
+3071220802,14,Dire,Pudge,Safe,Support
+3071220802,84,Dire,Ogre Magi,Safe,Support
+3071220802,8,Dire,Juggernaut,Safe,Core
+3071221706,16,Radiant,Sand King,Mid,Core
+3071221706,97,Radiant,Magnus,Safe,Core
+3071221706,73,Radiant,Alchemist,Jungle,Core
+3071221706,98,Radiant,Timbersaw,Off,Core
+3071221706,9,Radiant,Mirana,Roamer,Support
+3071221706,2,Dire,Axe,Jungle,Core
+3071221706,68,Dire,Ancient Apparition,Off,Core
+3071221706,36,Dire,Necrophos,Safe,Core
+3071221706,46,Dire,Templar Assassin,Mid,Core
+3071221706,87,Dire,Disruptor,Roamer,Support
+3071224306,42,Radiant,Wraith King,Safe,Core
+3071224306,22,Radiant,Zeus,Mid,Core
+3071224306,14,Radiant,Pudge,Roamer,Support
+3071224306,110,Radiant,Phoenix,Off,Core
+3071224306,64,Radiant,Jakiro,Safe,Support
+3071224306,105,Dire,Techies,Roamer,Support
+3071224306,102,Dire,Abaddon,Safe,Core
+3071224306,87,Dire,Disruptor,Roamer,Support
+3071224306,63,Dire,Weaver,Off,Core
+3071224306,92,Dire,Visage,Mid,Core
+3071224601,74,Radiant,Invoker,Mid,Core
+3071224601,2,Radiant,Axe,Jungle,Core
+3071224601,5,Radiant,Crystal Maiden,Safe,Support
+3071224601,8,Radiant,Juggernaut,Safe,Core
+3071224601,97,Radiant,Magnus,Off,Core
+3071224601,14,Dire,Pudge,Roamer,Support
+3071224601,90,Dire,Keeper of the Light,Safe,Support
+3071224601,109,Dire,Terrorblade,Safe,Core
+3071224601,82,Dire,Meepo,Mid,Core
+3071224601,61,Dire,Broodmother,Off,Core
+3071226301,26,Radiant,Lion,Safe,Support
+3071226301,34,Radiant,Tinker,Mid,Core
+3071226301,4,Radiant,Bloodseeker,Jungle,Core
+3071226301,35,Radiant,Sniper,Safe,Core
+3071226301,29,Radiant,Tidehunter,Off,Core
+3071226301,47,Dire,Viper,Mid,Core
+3071226301,97,Dire,Magnus,Off,Core
+3071226301,86,Dire,Rubick,Safe,Support
+3071226301,57,Dire,Omniknight,Safe,Support
+3071226301,1,Dire,Anti-Mage,Safe,Core
+3071226609,11,Radiant,Shadow Fiend,Mid,Core
+3071226609,84,Radiant,Ogre Magi,Roamer,Support
+3071226609,104,Radiant,Legion Commander,Jungle,Core
+3071226609,102,Radiant,Abaddon,Off,Core
+3071226609,20,Radiant,Vengeful Spirit,Safe,Core
+3071226609,93,Dire,Slark,Safe,Core
+3071226609,101,Dire,Skywrath Mage,Roamer,Support
+3071226609,71,Dire,Spirit Breaker,Roamer,Support
+3071226609,106,Dire,Ember Spirit,Mid,Core
+3071226609,108,Dire,Underlord,Off,Core
+3071226806,62,Radiant,Bounty Hunter,Roamer,Core
+3071226806,96,Radiant,Centaur Warrunner,Off,Core
+3071226806,54,Radiant,Lifestealer,Safe,Core
+3071226806,95,Radiant,Troll Warlord,Mid,Core
+3071226806,5,Radiant,Crystal Maiden,Safe,Support
+3071226806,110,Dire,Phoenix,Off,Core
+3071226806,107,Dire,Earth Spirit,Roamer,Support
+3071226806,11,Dire,Shadow Fiend,Mid,Core
+3071226806,75,Dire,Silencer,Safe,Support
+3071226806,93,Dire,Slark,Safe,Core
+3071227301,86,Radiant,Rubick,Roamer,Support
+3071227301,35,Radiant,Sniper,Mid,Core
+3071227301,7,Radiant,Earthshaker,Safe,Support
+3071227301,44,Radiant,Phantom Assassin,Safe,Core
+3071227301,16,Radiant,Sand King,Off,Core
+3071227301,14,Dire,Pudge,Roamer,Support
+3071227301,93,Dire,Slark,Safe,Core
+3071227301,28,Dire,Slardar,Off,Core
+3071227301,26,Dire,Lion,Safe,Support
+3071227301,34,Dire,Tinker,Mid,Core
+3071229501,100,Radiant,Tusk,Roamer,Support
+3071229501,63,Radiant,Weaver,Mid,Core
+3071229501,6,Radiant,Drow Ranger,Safe,Core
+3071229501,102,Radiant,Abaddon,Off,Core
+3071229501,86,Radiant,Rubick,Safe,Support
+3071229501,1,Dire,Anti-Mage,Safe,Core
+3071229501,114,Dire,Monkey King,Off,Core
+3071229501,92,Dire,Visage,Off,Support
+3071229501,11,Dire,Shadow Fiend,Mid,Core
+3071229501,14,Dire,Pudge,Roamer,Support
+3071230201,44,Radiant,Phantom Assassin,Safe,Core
+3071230201,35,Radiant,Sniper,Mid,Core
+3071230201,102,Radiant,Abaddon,Safe,Support
+3071230201,31,Radiant,Lich,Off,Support
+3071230201,16,Radiant,Sand King,Off,Core
+3071230201,43,Dire,Death Prophet,Roamer,Support
+3071230201,54,Dire,Lifestealer,Safe,Core
+3071230201,40,Dire,Venomancer,Jungle,Core
+3071230201,39,Dire,Queen of Pain,Mid,Core
+3071230201,71,Dire,Spirit Breaker,Off,Core
+3071231100,74,Radiant,Invoker,Mid,Core
+3071231100,20,Radiant,Vengeful Spirit,Safe,Support
+3071231100,32,Radiant,Riki,Roamer,Support
+3071231100,13,Radiant,Puck,Off,Core
+3071231100,8,Radiant,Juggernaut,Safe,Core
+3071231100,21,Dire,Windranger,Off,Support
+3071231100,71,Dire,Spirit Breaker,Off,Core
+3071231100,14,Dire,Pudge,Roamer,Support
+3071231100,17,Dire,Storm Spirit,Mid,Core
+3071231100,1,Dire,Anti-Mage,Safe,Core
+3071232401,7,Radiant,Earthshaker,Off,Core
+3071232401,69,Radiant,Doom,Jungle,Core
+3071232401,86,Radiant,Rubick,Safe,Support
+3071232401,70,Radiant,Ursa,Safe,Core
+3071232401,52,Radiant,Leshrac,Mid,Core
+3071232401,74,Dire,Invoker,Mid,Core
+3071232401,41,Dire,Faceless Void,Off,Core
+3071232401,12,Dire,Phantom Lancer,Safe,Core
+3071232401,30,Dire,Witch Doctor,Roamer,Support
+3071232401,16,Dire,Sand King,Off,Support
+3071242508,36,Radiant,Necrophos,Off,Core
+3071242508,35,Radiant,Sniper,Mid,Core
+3071242508,57,Radiant,Omniknight,Safe,Support
+3071242508,95,Radiant,Troll Warlord,Safe,Core
+3071242508,74,Radiant,Invoker,Mid,Core
+3071242508,83,Dire,Treant Protector,Safe,Support
+3071242508,44,Dire,Phantom Assassin,Safe,Core
+3071242508,34,Dire,Tinker,Mid,Core
+3071242508,90,Dire,Keeper of the Light,Safe,Support
+3071242508,108,Dire,Underlord,Off,Core
+3071244102,106,Radiant,Ember Spirit,Mid,Core
+3071244102,32,Radiant,Riki,Off,Core
+3071244102,1,Radiant,Anti-Mage,Safe,Core
+3071244102,7,Radiant,Earthshaker,Safe,Support
+3071244102,9,Radiant,Mirana,Roamer,Support
+3071244102,74,Dire,Invoker,Mid,Core
+3071244102,5,Dire,Crystal Maiden,Jungle,Core
+3071244102,8,Dire,Juggernaut,Safe,Core
+3071244102,87,Dire,Disruptor,Roamer,Support
+3071244102,51,Dire,Clockwerk,Off,Core
+3071246100,11,Radiant,Shadow Fiend,Mid,Core
+3071246100,4,Radiant,Bloodseeker,Jungle,Core
+3071246100,8,Radiant,Juggernaut,Safe,Core
+3071246100,9,Radiant,Mirana,Off,Core
+3071246100,27,Radiant,Shadow Shaman,Roamer,Support
+3071246100,112,Dire,Winter Wyvern,Off,Support
+3071246100,74,Dire,Invoker,Mid,Core
+3071246100,2,Dire,Axe,Off,Core
+3071246100,86,Dire,Rubick,Roamer,Support
+3071246100,41,Dire,Faceless Void,Safe,Core
+3071247100,28,Radiant,Slardar,Roamer,Support
+3071247100,86,Radiant,Rubick,Safe,Support
+3071247100,70,Radiant,Ursa,Safe,Core
+3071247100,73,Radiant,Alchemist,Mid,Core
+3071247100,16,Radiant,Sand King,Off,Core
+3071247100,42,Dire,Wraith King,Safe,Core
+3071247100,102,Dire,Abaddon,Off,Core
+3071247100,45,Dire,Pugna,Safe,Support
+3071247100,114,Dire,Monkey King,Roamer,Support
+3071247100,74,Dire,Invoker,Mid,Core
+3071247709,26,Radiant,Lion,Safe,Support
+3071247709,110,Radiant,Phoenix,Off,Core
+3071247709,112,Radiant,Winter Wyvern,Roamer,Support
+3071247709,12,Radiant,Phantom Lancer,Safe,Core
+3071247709,11,Radiant,Shadow Fiend,Mid,Core
+3071247709,93,Dire,Slark,Safe,Core
+3071247709,33,Dire,Enigma,Off,Core
+3071247709,27,Dire,Shadow Shaman,Mid,Core
+3071247709,102,Dire,Abaddon,Safe,Support
+3071247709,30,Dire,Witch Doctor,Safe,Support
+3071252802,31,Radiant,Lich,Off,Support
+3071252802,9,Radiant,Mirana,Off,Core
+3071252802,17,Radiant,Storm Spirit,Mid,Core
+3071252802,95,Radiant,Troll Warlord,Safe,Core
+3071252802,42,Radiant,Wraith King,Jungle,Core
+3071252802,90,Dire,Keeper of the Light,Safe,Support
+3071252802,4,Dire,Bloodseeker,Safe,Core
+3071252802,83,Dire,Treant Protector,Roamer,Support
+3071252802,74,Dire,Invoker,Mid,Core
+3071252802,61,Dire,Broodmother,Off,Core
+3071253404,14,Radiant,Pudge,Mid,Core
+3071253404,1,Radiant,Anti-Mage,Safe,Core
+3071253404,55,Radiant,Dark Seer,Off,Core
+3071253404,84,Radiant,Ogre Magi,Safe,Support
+3071253404,104,Radiant,Legion Commander,Jungle,Core
+3071253404,68,Dire,Ancient Apparition,Safe,Support
+3071253404,93,Dire,Slark,Safe,Core
+3071253404,58,Dire,Enchantress,Off,Core
+3071253404,17,Dire,Storm Spirit,Mid,Core
+3071253404,114,Dire,Monkey King,Roamer,Support
+3071253508,8,Radiant,Juggernaut,Safe,Core
+3071253508,84,Radiant,Ogre Magi,Mid,Support
+3071253508,35,Radiant,Sniper,Mid,Core
+3071253508,112,Radiant,Winter Wyvern,Safe,Support
+3071253508,96,Radiant,Centaur Warrunner,Off,Core
+3071253508,9,Dire,Mirana,Roamer,Support
+3071253508,64,Dire,Jakiro,Safe,Support
+3071253508,6,Dire,Drow Ranger,Safe,Core
+3071253508,55,Dire,Dark Seer,Off,Core
+3071253508,79,Dire,Shadow Demon,Safe,Support
+3071255706,98,Radiant,Timbersaw,Off,Core
+3071255706,7,Radiant,Earthshaker,Jungle,Core
+3071255706,86,Radiant,Rubick,Safe,Support
+3071255706,93,Radiant,Slark,Safe,Core
+3071255706,46,Radiant,Templar Assassin,Mid,Core
+3071255706,97,Dire,Magnus,Off,Core
+3071255706,80,Dire,Lone Druid,Safe,Core
+3071255706,20,Dire,Vengeful Spirit,Safe,Support
+3071255706,39,Dire,Queen of Pain,Mid,Core
+3071255706,101,Dire,Skywrath Mage,Safe,Support
+3071258208,86,Radiant,Rubick,Safe,Support
+3071258208,19,Radiant,Tiny,Off,Core
+3071258208,8,Radiant,Juggernaut,Safe,Core
+3071258208,36,Radiant,Necrophos,Off,Support
+3071258208,22,Radiant,Zeus,Mid,Core
+3071258208,92,Dire,Visage,Safe,Support
+3071258208,113,Dire,Arc Warden,Mid,Core
+3071258208,79,Dire,Shadow Demon,Safe,Support
+3071258208,48,Dire,Luna,Safe,Core
+3071258208,29,Dire,Tidehunter,Off,Core
+3071258400,36,Radiant,Necrophos,Off,Core
+3071258400,74,Radiant,Invoker,Mid,Core
+3071258400,50,Radiant,Dazzle,Safe,Support
+3071258400,104,Radiant,Legion Commander,Jungle,Core
+3071258400,48,Radiant,Luna,Safe,Core
+3071258400,95,Dire,Troll Warlord,Safe,Core
+3071258400,2,Dire,Axe,Jungle,Core
+3071258400,86,Dire,Rubick,Safe,Support
+3071258400,18,Dire,Sven,Off,Core
+3071258400,82,Dire,Meepo,Mid,Core
+3071259402,62,Radiant,Bounty Hunter,Roamer,Support
+3071259402,63,Radiant,Weaver,Safe,Core
+3071259402,98,Radiant,Timbersaw,Off,Core
+3071259402,20,Radiant,Vengeful Spirit,Safe,Support
+3071259402,17,Radiant,Storm Spirit,Mid,Core
+3071259402,21,Dire,Windranger,Off,Core
+3071259402,26,Dire,Lion,Safe,Support
+3071259402,41,Dire,Faceless Void,Safe,Core
+3071259402,34,Dire,Tinker,Mid,Core
+3071259402,32,Dire,Riki,Roamer,Support
+3071259904,104,Radiant,Legion Commander,Off,Core
+3071259904,93,Radiant,Slark,Safe,Support
+3071259904,11,Radiant,Shadow Fiend,Mid,Core
+3071259904,50,Radiant,Dazzle,Safe,Support
+3071259904,62,Radiant,Bounty Hunter,Roamer,Support
+3071259904,46,Dire,Templar Assassin,Mid,Core
+3071259904,14,Dire,Pudge,Roamer,Support
+3071259904,36,Dire,Necrophos,Safe,Core
+3071259904,88,Dire,Nyx Assassin,Off,Core
+3071259904,91,Dire,Io,Jungle,Core
+3071260902,57,Radiant,Omniknight,Safe,Support
+3071260902,46,Radiant,Templar Assassin,Mid,Core
+3071260902,106,Radiant,Ember Spirit,Safe,Core
+3071260902,80,Radiant,Lone Druid,Off,Core
+3071260902,9,Radiant,Mirana,Jungle,Core
+3071260902,47,Dire,Viper,Off,Core
+3071260902,42,Dire,Wraith King,Safe,Core
+3071260902,22,Dire,Zeus,Mid,Core
+3071260902,110,Dire,Phoenix,Safe,Support
+3071260902,14,Dire,Pudge,Roamer,Support
+3071261107,3,Radiant,Bane,Roamer,Support
+3071261107,74,Radiant,Invoker,Mid,Core
+3071261107,54,Radiant,Lifestealer,Safe,Core
+3071261107,86,Radiant,Rubick,Safe,Support
+3071261107,16,Radiant,Sand King,Off,Core
+3071261107,101,Dire,Skywrath Mage,Safe,Support
+3071261107,96,Dire,Centaur Warrunner,Off,Core
+3071261107,8,Dire,Juggernaut,Safe,Core
+3071261107,46,Dire,Templar Assassin,Mid,Core
+3071261107,97,Dire,Magnus,Jungle,Core
+3071262108,2,Radiant,Axe,Off,Core
+3071262108,107,Radiant,Earth Spirit,Safe,Support
+3071262108,44,Radiant,Phantom Assassin,Safe,Core
+3071262108,88,Radiant,Nyx Assassin,Roamer,Support
+3071262108,11,Radiant,Shadow Fiend,Mid,Core
+3071262108,33,Dire,Enigma,Jungle,Core
+3071262108,106,Dire,Ember Spirit,Safe,Core
+3071262108,32,Dire,Riki,Off,Core
+3071262108,112,Dire,Winter Wyvern,Roamer,Support
+3071262108,17,Dire,Storm Spirit,Mid,Core
+3071262307,108,Radiant,Underlord,Off,Core
+3071262307,4,Radiant,Bloodseeker,Jungle,Core
+3071262307,36,Radiant,Necrophos,Mid,Core
+3071262307,70,Radiant,Ursa,Safe,Core
+3071262307,71,Radiant,Spirit Breaker,Safe,Support
+3071262307,106,Dire,Ember Spirit,Mid,Core
+3071262307,95,Dire,Troll Warlord,Safe,Core
+3071262307,33,Dire,Enigma,Jungle,Core
+3071262307,7,Dire,Earthshaker,Off,Core
+3071262307,86,Dire,Rubick,Safe,Support
+3071268905,87,Radiant,Disruptor,Off,Support
+3071268905,51,Radiant,Clockwerk,Safe,Core
+3071268905,67,Radiant,Spectre,Off,Core
+3071268905,14,Radiant,Pudge,Roamer,Support
+3071268905,75,Radiant,Silencer,Mid,Core
+3071268905,26,Dire,Lion,Safe,Support
+3071268905,10,Dire,Morphling,Off,Core
+3071268905,74,Dire,Invoker,Mid,Core
+3071268905,85,Dire,Undying,Roamer,Support
+3071268905,48,Dire,Luna,Safe,Core
+3071269901,54,Radiant,Lifestealer,Safe,Core
+3071269901,14,Radiant,Pudge,Roamer,Support
+3071269901,11,Radiant,Shadow Fiend,Mid,Core
+3071269901,16,Radiant,Sand King,Off,Core
+3071269901,68,Radiant,Ancient Apparition,Jungle,Core
+3071269901,8,Dire,Juggernaut,Safe,Core
+3071269901,104,Dire,Legion Commander,Off,Core
+3071269901,74,Dire,Invoker,Mid,Core
+3071269901,36,Dire,Necrophos,Roamer,Support
+3071269901,86,Dire,Rubick,Roamer,Support
+3071270200,57,Radiant,Omniknight,Safe,Support
+3071270200,55,Radiant,Dark Seer,Jungle,Core
+3071270200,97,Radiant,Magnus,Mid,Core
+3071270200,8,Radiant,Juggernaut,Safe,Core
+3071270200,102,Radiant,Abaddon,Off,Core
+3071270200,59,Dire,Huskar,Off,Core
+3071270200,44,Dire,Phantom Assassin,Safe,Core
+3071270200,83,Dire,Treant Protector,Safe,Support
+3071270200,31,Dire,Lich,Off,Support
+3071270200,34,Dire,Tinker,Mid,Core
+3096515508,23,Radiant,Kunkka,Safe,Support
+3096515508,96,Radiant,Centaur Warrunner,Off,Core
+3096515508,113,Radiant,Arc Warden,Safe,Core
+3096515508,33,Radiant,Enigma,Jungle,Core
+3096515508,94,Radiant,Medusa,Mid,Core
+3096515508,25,Dire,Lina,Mid,Core
+3096515508,2,Dire,Axe,Off,Core
+3096515508,1,Dire,Anti-Mage,Safe,Core
+3096515508,37,Dire,Warlock,Safe,Support
+3096515508,114,Dire,Monkey King,Roamer,Support
+3096516606,14,Radiant,Pudge,Roamer,Support
+3096516606,47,Radiant,Viper,Mid,Core
+3096516606,99,Radiant,Bristleback,Off,Core
+3096516606,93,Radiant,Slark,Safe,Core
+3096516606,30,Radiant,Witch Doctor,Safe,Core
+3096516606,11,Dire,Shadow Fiend,Mid,Core
+3096516606,96,Dire,Centaur Warrunner,Off,Core
+3096516606,26,Dire,Lion,Roamer,Core
+3096516606,95,Dire,Troll Warlord,Safe,Core
+3096516606,66,Dire,Chen,Jungle,Core
+3096517908,21,Radiant,Windranger,Safe,Support
+3096517908,38,Radiant,Beastmaster,Off,Core
+3096517908,70,Radiant,Ursa,Safe,Core
+3096517908,22,Radiant,Zeus,Mid,Core
+3096517908,32,Radiant,Riki,Roamer,Support
+3096517908,107,Dire,Earth Spirit,Roamer,Support
+3096517908,76,Dire,Outworld Devourer,Mid,Core
+3096517908,114,Dire,Monkey King,Roamer,Support
+3096517908,8,Dire,Juggernaut,Safe,Core
+3096517908,47,Dire,Viper,Off,Core
+3096519206,41,Radiant,Faceless Void,Safe,Core
+3096519206,16,Radiant,Sand King,Jungle,Core
+3096519206,34,Radiant,Tinker,Mid,Core
+3096519206,8,Radiant,Juggernaut,Safe,Core
+3096519206,30,Radiant,Witch Doctor,Safe,Support
+3096519206,104,Dire,Legion Commander,Jungle,Core
+3096519206,26,Dire,Lion,Safe,Support
+3096519206,1,Dire,Anti-Mage,Safe,Core
+3096519206,25,Dire,Lina,Mid,Core
+3096519206,9,Dire,Mirana,Off,Core
+3096520309,2,Radiant,Axe,Jungle,Core
+3096520309,14,Radiant,Pudge,Roamer,Support
+3096520309,46,Radiant,Templar Assassin,Mid,Core
+3096520309,105,Radiant,Techies,Off,Core
+3096520309,67,Radiant,Spectre,Safe,Core
+3096520309,4,Dire,Bloodseeker,Jungle,Core
+3096520309,35,Dire,Sniper,Safe,Core
+3096520309,73,Dire,Alchemist,Mid,Core
+3096520309,40,Dire,Venomancer,Off,Core
+3096520309,20,Dire,Vengeful Spirit,Roamer,Support
+3096520403,14,Radiant,Pudge,Roamer,Support
+3096520403,35,Radiant,Sniper,Mid,Core
+3096520403,86,Radiant,Rubick,Roamer,Support
+3096520403,109,Radiant,Terrorblade,Safe,Core
+3096520403,33,Radiant,Enigma,Off,Core
+3096520403,50,Dire,Dazzle,Safe,Support
+3096520403,8,Dire,Juggernaut,Safe,Core
+3096520403,106,Dire,Ember Spirit,Mid,Core
+3096520403,25,Dire,Lina,Safe,Support
+3096520403,97,Dire,Magnus,Off,Core
+3096521601,68,Radiant,Ancient Apparition,Safe,Support
+3096521601,18,Radiant,Sven,Safe,Core
+3096521601,35,Radiant,Sniper,Mid,Core
+3096521601,112,Radiant,Winter Wyvern,Safe,Support
+3096521601,63,Radiant,Weaver,Off,Core
+3096521601,25,Dire,Lina,Jungle,Core
+3096521601,84,Dire,Ogre Magi,Roamer,Support
+3096521601,82,Dire,Meepo,Mid,Core
+3096521601,96,Dire,Centaur Warrunner,Off,Core
+3096521601,93,Dire,Slark,Safe,Core
+3096521805,41,Radiant,Faceless Void,Safe,Core
+3096521805,2,Radiant,Axe,Jungle,Core
+3096521805,17,Radiant,Storm Spirit,Mid,Core
+3096521805,107,Radiant,Earth Spirit,Roamer,Support
+3096521805,110,Radiant,Phoenix,Off,Core
+3096521805,68,Dire,Ancient Apparition,Mid,Support
+3096521805,44,Dire,Phantom Assassin,Mid,Core
+3096521805,72,Dire,Gyrocopter,Safe,Support
+3096521805,8,Dire,Juggernaut,Safe,Core
+3096521805,57,Dire,Omniknight,Off,Core
+3096522008,86,Radiant,Rubick,Safe,Support
+3096522008,9,Radiant,Mirana,Roamer,Support
+3096522008,75,Radiant,Silencer,Safe,Core
+3096522008,51,Radiant,Clockwerk,Off,Core
+3096522008,98,Radiant,Timbersaw,Mid,Core
+3096522008,4,Dire,Bloodseeker,Jungle,Core
+3096522008,62,Dire,Bounty Hunter,Roamer,Support
+3096522008,54,Dire,Lifestealer,Safe,Core
+3096522008,31,Dire,Lich,Off,Core
+3096522008,8,Dire,Juggernaut,Mid,Core
+3096523300,73,Radiant,Alchemist,Safe,Core
+3096523300,27,Radiant,Shadow Shaman,Safe,Support
+3096523300,107,Radiant,Earth Spirit,Off,Core
+3096523300,84,Radiant,Ogre Magi,Roamer,Support
+3096523300,89,Radiant,Naga Siren,Mid,Core
+3096523300,39,Dire,Queen of Pain,Mid,Core
+3096523300,5,Dire,Crystal Maiden,Safe,Support
+3096523300,29,Dire,Tidehunter,Off,Core
+3096523300,81,Dire,Chaos Knight,Safe,Core
+3096523300,14,Dire,Pudge,Safe,Support
+3096524506,74,Radiant,Invoker,Mid,Core
+3096524506,90,Radiant,Keeper of the Light,Safe,Support
+3096524506,87,Radiant,Disruptor,Roamer,Support
+3096524506,81,Radiant,Chaos Knight,Safe,Core
+3096524506,16,Radiant,Sand King,Off,Core
+3096524506,70,Dire,Ursa,Safe,Core
+3096524506,25,Dire,Lina,Mid,Core
+3096524506,42,Dire,Wraith King,Off,Core
+3096524506,104,Dire,Legion Commander,Jungle,Core
+3096524506,99,Dire,Bristleback,Safe,Support
+3096524703,85,Radiant,Undying,Off,Core
+3096524703,1,Radiant,Anti-Mage,Safe,Core
+3096524703,76,Radiant,Outworld Devourer,Mid,Core
+3096524703,3,Radiant,Bane,Safe,Support
+3096524703,71,Radiant,Spirit Breaker,Roamer,Support
+3096524703,19,Dire,Tiny,Safe,Core
+3096524703,88,Dire,Nyx Assassin,Off,Core
+3096524703,44,Dire,Phantom Assassin,Mid,Core
+3096524703,87,Dire,Disruptor,Safe,Support
+3096524703,31,Dire,Lich,Safe,Support
+3096525005,86,Radiant,Rubick,Off,Support
+3096525005,102,Radiant,Abaddon,Off,Core
+3096525005,14,Radiant,Pudge,Mid,Core
+3096525005,64,Radiant,Jakiro,Safe,Support
+3096525005,8,Radiant,Juggernaut,Safe,Core
+3096525005,93,Dire,Slark,Safe,Core
+3096525005,101,Dire,Skywrath Mage,Safe,Support
+3096525005,25,Dire,Lina,Off,Core
+3096525005,46,Dire,Templar Assassin,Mid,Core
+3096525005,7,Dire,Earthshaker,Off,Support
+3096527707,112,Radiant,Winter Wyvern,Safe,Support
+3096527707,34,Radiant,Tinker,Mid,Core
+3096527707,33,Radiant,Enigma,Jungle,Core
+3096527707,8,Radiant,Juggernaut,Safe,Core
+3096527707,97,Radiant,Magnus,Off,Core
+3096527707,71,Dire,Spirit Breaker,Roamer,Support
+3096527707,11,Dire,Shadow Fiend,Mid,Core
+3096527707,29,Dire,Tidehunter,Off,Core
+3096527707,4,Dire,Bloodseeker,Jungle,Core
+3096527707,95,Dire,Troll Warlord,Safe,Core
+3096528901,6,Radiant,Drow Ranger,Safe,Core
+3096528901,20,Radiant,Vengeful Spirit,Safe,Core
+3096528901,11,Radiant,Shadow Fiend,Mid,Core
+3096528901,87,Radiant,Disruptor,Off,Support
+3096528901,63,Radiant,Weaver,Off,Core
+3096528901,44,Dire,Phantom Assassin,Safe,Core
+3096528901,13,Dire,Puck,Off,Core
+3096528901,114,Dire,Monkey King,Roamer,Support
+3096528901,35,Dire,Sniper,Mid,Core
+3096528901,108,Dire,Underlord,Safe,Support
+3096528908,35,Radiant,Sniper,Mid,Core
+3096528908,8,Radiant,Juggernaut,Safe,Core
+3096528908,14,Radiant,Pudge,Roamer,Support
+3096528908,51,Radiant,Clockwerk,Off,Core
+3096528908,5,Radiant,Crystal Maiden,Safe,Support
+3096528908,22,Dire,Zeus,Roamer,Support
+3096528908,104,Dire,Legion Commander,Jungle,Core
+3096528908,98,Dire,Timbersaw,Off,Core
+3096528908,67,Dire,Spectre,Safe,Core
+3096528908,74,Dire,Invoker,Mid,Core
+3096529708,74,Radiant,Invoker,Mid,Core
+3096529708,92,Radiant,Visage,Off,Core
+3096529708,2,Radiant,Axe,Jungle,Core
+3096529708,87,Radiant,Disruptor,Safe,Support
+3096529708,63,Radiant,Weaver,Safe,Core
+3096529708,51,Dire,Clockwerk,Off,Core
+3096529708,26,Dire,Lion,Safe,Support
+3096529708,54,Dire,Lifestealer,Safe,Core
+3096529708,40,Dire,Venomancer,Safe,Support
+3096529708,39,Dire,Queen of Pain,Mid,Core
+3120048502,53,Radiant,Nature's Prophet,Jungle,Core
+3120048502,31,Radiant,Lich,Safe,Support
+3120048502,2,Radiant,Axe,Off,Core
+3120048502,74,Radiant,Invoker,Mid,Core
+3120048502,1,Radiant,Anti-Mage,Safe,Core
+3120048502,10,Dire,Morphling,Safe,Core
+3120048502,4,Dire,Bloodseeker,Jungle,Core
+3120048502,102,Dire,Abaddon,Off,Core
+3120048502,23,Dire,Kunkka,Mid,Core
+3120048502,32,Dire,Riki,Roamer,Support
+3120049309,81,Radiant,Chaos Knight,Mid,Core
+3120049309,91,Radiant,Io,Mid,Support
+3120049309,1,Radiant,Anti-Mage,Safe,Core
+3120049309,27,Radiant,Shadow Shaman,Off,Core
+3120049309,5,Radiant,Crystal Maiden,Jungle,Support
+3120049309,4,Dire,Bloodseeker,Jungle,Core
+3120049309,55,Dire,Dark Seer,Off,Core
+3120049309,34,Dire,Tinker,Mid,Core
+3120049309,57,Dire,Omniknight,Safe,Support
+3120049309,106,Dire,Ember Spirit,Safe,Core
+3120049404,88,Radiant,Nyx Assassin,Off,Core
+3120049404,31,Radiant,Lich,Safe,Support
+3120049404,11,Radiant,Shadow Fiend,Mid,Core
+3120049404,14,Radiant,Pudge,Roamer,Support
+3120049404,44,Radiant,Phantom Assassin,Safe,Core
+3120049404,8,Dire,Juggernaut,Safe,Core
+3120049404,40,Dire,Venomancer,Off,Support
+3120049404,87,Dire,Disruptor,Safe,Support
+3120049404,17,Dire,Storm Spirit,Mid,Core
+3120049404,108,Dire,Underlord,Off,Core
+3120049409,74,Radiant,Invoker,Mid,Core
+3120049409,95,Radiant,Troll Warlord,Safe,Core
+3120049409,38,Radiant,Beastmaster,Off,Core
+3120049409,32,Radiant,Riki,Roamer,Support
+3120049409,14,Radiant,Pudge,Roamer,Support
+3120049409,25,Dire,Lina,Safe,Support
+3120049409,84,Dire,Ogre Magi,Safe,Support
+3120049409,13,Dire,Puck,Mid,Core
+3120049409,108,Dire,Underlord,Off,Core
+3120049409,54,Dire,Lifestealer,Safe,Core
+3120049805,60,Radiant,Night Stalker,Off,Core
+3120049805,95,Radiant,Troll Warlord,Safe,Core
+3120049805,22,Radiant,Zeus,Mid,Core
+3120049805,114,Radiant,Monkey King,Roamer,Support
+3120049805,62,Radiant,Bounty Hunter,Roamer,Support
+3120049805,97,Dire,Magnus,Mid,Core
+3120049805,16,Dire,Sand King,Safe,Support
+3120049805,18,Dire,Sven,Off,Core
+3120049805,40,Dire,Venomancer,Off,Support
+3120049805,67,Dire,Spectre,Safe,Core
+3120050005,76,Radiant,Outworld Devourer,Mid,Core
+3120050005,95,Radiant,Troll Warlord,Safe,Core
+3120050005,107,Radiant,Earth Spirit,Roamer,Support
+3120050005,104,Radiant,Legion Commander,Off,Core
+3120050005,86,Radiant,Rubick,Safe,Support
+3120050005,36,Dire,Necrophos,Mid,Core
+3120050005,114,Dire,Monkey King,Roamer,Support
+3120050005,50,Dire,Dazzle,Safe,Support
+3120050005,37,Dire,Warlock,Off,Core
+3120050005,8,Dire,Juggernaut,Safe,Core
+3120055701,97,Radiant,Magnus,Mid,Core
+3120055701,32,Radiant,Riki,Roamer,Support
+3120055701,1,Radiant,Anti-Mage,Safe,Core
+3120055701,26,Radiant,Lion,Safe,Support
+3120055701,29,Radiant,Tidehunter,Off,Core
+3120055701,20,Dire,Vengeful Spirit,Roamer,Support
+3120055701,114,Dire,Monkey King,Roamer,Support
+3120055701,94,Dire,Medusa,Safe,Core
+3120055701,46,Dire,Templar Assassin,Mid,Core
+3120055701,104,Dire,Legion Commander,Off,Core
+3120058500,62,Radiant,Bounty Hunter,Roamer,Support
+3120058500,6,Radiant,Drow Ranger,Safe,Core
+3120058500,20,Radiant,Vengeful Spirit,Safe,Support
+3120058500,56,Radiant,Clinkz,Off,Core
+3120058500,49,Radiant,Dragon Knight,Mid,Core
+3120058500,26,Dire,Lion,Safe,Support
+3120058500,35,Dire,Sniper,Mid,Core
+3120058500,32,Dire,Riki,Roamer,Support
+3120058500,98,Dire,Timbersaw,Off,Core
+3120058500,46,Dire,Templar Assassin,Safe,Core
+3120067001,14,Radiant,Pudge,Roamer,Support
+3120067001,28,Radiant,Slardar,Off,Core
+3120067001,114,Radiant,Monkey King,Roamer,Support
+3120067001,18,Radiant,Sven,Safe,Core
+3120067001,22,Radiant,Zeus,Mid,Core
+3120067001,27,Dire,Shadow Shaman,Roamer,Support
+3120067001,9,Dire,Mirana,Roamer,Support
+3120067001,11,Dire,Shadow Fiend,Mid,Core
+3120067001,6,Dire,Drow Ranger,Safe,Core
+3120067001,102,Dire,Abaddon,Off,Core
+3120068701,21,Radiant,Windranger,Off,Core
+3120068701,26,Radiant,Lion,Safe,Support
+3120068701,73,Radiant,Alchemist,Mid,Core
+3120068701,93,Radiant,Slark,Safe,Core
+3120068701,50,Radiant,Dazzle,Safe,Support
+3120068701,60,Dire,Night Stalker,Off,Core
+3120068701,30,Dire,Witch Doctor,Off,Support
+3120068701,11,Dire,Shadow Fiend,Mid,Core
+3120068701,8,Dire,Juggernaut,Safe,Core
+3120068701,20,Dire,Vengeful Spirit,Safe,Support
+3120070903,11,Radiant,Shadow Fiend,Mid,Core
+3120070903,1,Radiant,Anti-Mage,Safe,Core
+3120070903,90,Radiant,Keeper of the Light,Off,Support
+3120070903,26,Radiant,Lion,Safe,Support
+3120070903,2,Radiant,Axe,Off,Core
+3120070903,34,Dire,Tinker,Mid,Core
+3120070903,54,Dire,Lifestealer,Safe,Core
+3120070903,114,Dire,Monkey King,Off,Core
+3120070903,32,Dire,Riki,Roamer,Support
+3120070903,86,Dire,Rubick,Safe,Support
+3120071804,53,Radiant,Nature's Prophet,Jungle,Core
+3120071804,71,Radiant,Spirit Breaker,Off,Core
+3120071804,93,Radiant,Slark,Safe,Core
+3120071804,30,Radiant,Witch Doctor,Safe,Support
+3120071804,75,Radiant,Silencer,Mid,Core
+3120071804,106,Dire,Ember Spirit,Mid,Core
+3120071804,7,Dire,Earthshaker,Roamer,Support
+3120071804,86,Dire,Rubick,Safe,Core
+3120071804,97,Dire,Magnus,Off,Core
+3120071804,42,Dire,Wraith King,Safe,Core
+3120072409,14,Radiant,Pudge,Roamer,Support
+3120072409,42,Radiant,Wraith King,Safe,Core
+3120072409,75,Radiant,Silencer,Safe,Support
+3120072409,56,Radiant,Clinkz,Mid,Core
+3120072409,9,Radiant,Mirana,Off,Core
+3120072409,84,Dire,Ogre Magi,Roamer,Support
+3120072409,37,Dire,Warlock,Safe,Support
+3120072409,106,Dire,Ember Spirit,Mid,Core
+3120072409,47,Dire,Viper,Off,Core
+3120072409,93,Dire,Slark,Safe,Core
+3120075808,11,Radiant,Shadow Fiend,Mid,Core
+3120075808,84,Radiant,Ogre Magi,Roamer,Support
+3120075808,13,Radiant,Puck,Off,Core
+3120075808,8,Radiant,Juggernaut,Safe,Core
+3120075808,114,Radiant,Monkey King,Safe,Support
+3120075808,104,Dire,Legion Commander,Off,Core
+3120075808,44,Dire,Phantom Assassin,Mid,Core
+3120075808,5,Dire,Crystal Maiden,Safe,Support
+3120075808,38,Dire,Beastmaster,Jungle,Core
+3120075808,93,Dire,Slark,Safe,Core
+3120076701,33,Radiant,Enigma,Jungle,Core
+3120076701,84,Radiant,Ogre Magi,Roamer,Support
+3120076701,74,Radiant,Invoker,Mid,Core
+3120076701,8,Radiant,Juggernaut,Safe,Core
+3120076701,97,Radiant,Magnus,Off,Core
+3120076701,20,Dire,Vengeful Spirit,Safe,Support
+3120076701,77,Dire,Lycan,Jungle,Core
+3120076701,105,Dire,Techies,Off,Core
+3120076701,113,Dire,Arc Warden,Mid,Core
+3120076701,93,Dire,Slark,Safe,Core
+3120081902,42,Radiant,Wraith King,Safe,Core
+3120081902,46,Radiant,Templar Assassin,Mid,Core
+3120081902,31,Radiant,Lich,Off,Support
+3120081902,104,Radiant,Legion Commander,Off,Core
+3120081902,71,Radiant,Spirit Breaker,Roamer,Support
+3120081902,54,Dire,Lifestealer,Safe,Core
+3120081902,7,Dire,Earthshaker,Off,Core
+3120081902,87,Dire,Disruptor,Safe,Support
+3120081902,2,Dire,Axe,Jungle,Core
+3120081902,22,Dire,Zeus,Mid,Core
+3120082402,26,Radiant,Lion,Safe,Support
+3120082402,36,Radiant,Necrophos,Roamer,Support
+3120082402,74,Radiant,Invoker,Mid,Core
+3120082402,63,Radiant,Weaver,Off,Core
+3120082402,54,Radiant,Lifestealer,Safe,Core
+3120082402,25,Dire,Lina,Mid,Core
+3120082402,102,Dire,Abaddon,Off,Core
+3120082402,95,Dire,Troll Warlord,Safe,Core
+3120082402,14,Dire,Pudge,Roamer,Support
+3120082402,101,Dire,Skywrath Mage,Mid,Support
+3120084308,28,Radiant,Slardar,Safe,Core
+3120084308,2,Radiant,Axe,Off,Core
+3120084308,8,Radiant,Juggernaut,Mid,Core
+3120084308,83,Radiant,Treant Protector,Off,Support
+3120084308,75,Radiant,Silencer,Safe,Support
+3120084308,9,Dire,Mirana,Jungle,Core
+3120084308,95,Dire,Troll Warlord,Safe,Core
+3120084308,62,Dire,Bounty Hunter,Roamer,Support
+3120084308,97,Dire,Magnus,Off,Core
+3120084308,106,Dire,Ember Spirit,Mid,Core
+3120087602,14,Radiant,Pudge,Roamer,Support
+3120087602,2,Radiant,Axe,Off,Core
+3120087602,26,Radiant,Lion,Safe,Support
+3120087602,75,Radiant,Silencer,Mid,Core
+3120087602,1,Radiant,Anti-Mage,Safe,Core
+3120087602,105,Dire,Techies,Off,Core
+3120087602,53,Dire,Nature's Prophet,Jungle,Core
+3120087602,13,Dire,Puck,Mid,Core
+3120087602,71,Dire,Spirit Breaker,Roamer,Support
+3120087602,8,Dire,Juggernaut,Safe,Core
+3120091405,107,Radiant,Earth Spirit,Roamer,Support
+3120091405,26,Radiant,Lion,Safe,Support
+3120091405,67,Radiant,Spectre,Roamer,Core
+3120091405,53,Radiant,Nature's Prophet,Off,Core
+3120091405,73,Radiant,Alchemist,Mid,Core
+3120091405,1,Dire,Anti-Mage,Safe,Core
+3120091405,17,Dire,Storm Spirit,Mid,Core
+3120091405,114,Dire,Monkey King,Roamer,Support
+3120091405,86,Dire,Rubick,Safe,Support
+3120091405,98,Dire,Timbersaw,Off,Core
+3120093900,100,Radiant,Tusk,Off,Core
+3120093900,46,Radiant,Templar Assassin,Mid,Core
+3120093900,44,Radiant,Phantom Assassin,Safe,Core
+3120093900,86,Radiant,Rubick,Safe,Support
+3120093900,104,Radiant,Legion Commander,Jungle,Core
+3120093900,106,Dire,Ember Spirit,Safe,Core
+3120093900,111,Dire,Oracle,Safe,Support
+3120093900,69,Dire,Doom,Off,Support
+3120093900,11,Dire,Shadow Fiend,Mid,Core
+3120093900,21,Dire,Windranger,Off,Core
+3120095502,97,Radiant,Magnus,Off,Core
+3120095502,8,Radiant,Juggernaut,Safe,Core
+3120095502,79,Radiant,Shadow Demon,Roamer,Support
+3120095502,19,Radiant,Tiny,Safe,Support
+3120095502,11,Radiant,Shadow Fiend,Mid,Core
+3120095502,31,Dire,Lich,Off,Core
+3120095502,84,Dire,Ogre Magi,Roamer,Support
+3120095502,47,Dire,Viper,Mid,Core
+3120095502,109,Dire,Terrorblade,Safe,Core
+3120095502,86,Dire,Rubick,Safe,Support
+3120099400,20,Radiant,Vengeful Spirit,Safe,Support
+3120099400,27,Radiant,Shadow Shaman,Safe,Support
+3120099400,35,Radiant,Sniper,Safe,Core
+3120099400,88,Radiant,Nyx Assassin,Off,Core
+3120099400,25,Radiant,Lina,Mid,Core
+3120099400,16,Dire,Sand King,Off,Core
+3120099400,74,Dire,Invoker,Mid,Core
+3120099400,57,Dire,Omniknight,Safe,Support
+3120099400,14,Dire,Pudge,Roamer,Support
+3120099400,67,Dire,Spectre,Safe,Core
+3120101901,63,Radiant,Weaver,Safe,Core
+3120101901,14,Radiant,Pudge,Roamer,Support
+3120101901,25,Radiant,Lina,Safe,Support
+3120101901,98,Radiant,Timbersaw,Mid,Core
+3120101901,110,Radiant,Phoenix,Off,Core
+3120101901,31,Dire,Lich,Off,Support
+3120101901,83,Dire,Treant Protector,Safe,Support
+3120101901,22,Dire,Zeus,Off,Core
+3120101901,74,Dire,Invoker,Mid,Core
+3120101901,70,Dire,Ursa,Safe,Core
+3120102405,73,Radiant,Alchemist,Safe,Core
+3120102405,32,Radiant,Riki,Roamer,Support
+3120102405,51,Radiant,Clockwerk,Off,Core
+3120102405,101,Radiant,Skywrath Mage,Safe,Support
+3120102405,94,Radiant,Medusa,Mid,Core
+3120102405,89,Dire,Naga Siren,Safe,Core
+3120102405,11,Dire,Shadow Fiend,Mid,Core
+3120102405,66,Dire,Chen,Jungle,Core
+3120102405,22,Dire,Zeus,Roamer,Support
+3120102405,17,Dire,Storm Spirit,Off,Core
+3120106109,30,Radiant,Witch Doctor,Safe,Support
+3120106109,110,Radiant,Phoenix,Off,Core
+3120106109,72,Radiant,Gyrocopter,Safe,Core
+3120106109,106,Radiant,Ember Spirit,Mid,Core
+3120106109,4,Radiant,Bloodseeker,Jungle,Core
+3120106109,70,Dire,Ursa,Jungle,Core
+3120106109,56,Dire,Clinkz,Mid,Core
+3120106109,57,Dire,Omniknight,Safe,Support
+3120106109,95,Dire,Troll Warlord,Safe,Core
+3120106109,90,Dire,Keeper of the Light,Off,Core
+3120107204,96,Radiant,Centaur Warrunner,Off,Core
+3120107204,11,Radiant,Shadow Fiend,Mid,Core
+3120107204,50,Radiant,Dazzle,Safe,Support
+3120107204,5,Radiant,Crystal Maiden,Jungle,Core
+3120107204,90,Radiant,Keeper of the Light,Mid,Core
+3120107204,104,Dire,Legion Commander,Jungle,Core
+3120107204,51,Dire,Clockwerk,Off,Core
+3120107204,17,Dire,Storm Spirit,Mid,Core
+3120107204,57,Dire,Omniknight,Safe,Support
+3120107204,1,Dire,Anti-Mage,Safe,Core
+3120111108,86,Radiant,Rubick,Off,Support
+3120111108,1,Radiant,Anti-Mage,Safe,Core
+3120111108,36,Radiant,Necrophos,Off,Core
+3120111108,46,Radiant,Templar Assassin,Mid,Core
+3120111108,85,Radiant,Undying,Off,Support
+3120111108,97,Dire,Magnus,Off,Core
+3120111108,18,Dire,Sven,Safe,Core
+3120111108,84,Dire,Ogre Magi,Safe,Support
+3120111108,74,Dire,Invoker,Mid,Core
+3120111108,14,Dire,Pudge,Roamer,Support
+3120112402,11,Radiant,Shadow Fiend,Mid,Core
+3120112402,14,Radiant,Pudge,Roamer,Support
+3120112402,102,Radiant,Abaddon,Off,Core
+3120112402,7,Radiant,Earthshaker,Roamer,Support
+3120112402,54,Radiant,Lifestealer,Safe,Core
+3120112402,10,Dire,Morphling,Safe,Core
+3120112402,74,Dire,Invoker,Mid,Core
+3120112402,4,Dire,Bloodseeker,Jungle,Core
+3120112402,51,Dire,Clockwerk,Off,Core
+3120112402,75,Dire,Silencer,Safe,Support
+3120114104,61,Radiant,Broodmother,Off,Core
+3120114104,20,Radiant,Vengeful Spirit,Roamer,Support
+3120114104,76,Radiant,Outworld Devourer,Mid,Core
+3120114104,27,Radiant,Shadow Shaman,Roamer,Support
+3120114104,1,Radiant,Anti-Mage,Safe,Core
+3120114104,44,Dire,Phantom Assassin,Safe,Core
+3120114104,83,Dire,Treant Protector,Safe,Support
+3120114104,26,Dire,Lion,Safe,Support
+3120114104,46,Dire,Templar Assassin,Mid,Core
+3120114104,55,Dire,Dark Seer,Off,Core
+3120114607,32,Radiant,Riki,Roamer,Support
+3120114607,48,Radiant,Luna,Safe,Core
+3120114607,26,Radiant,Lion,Safe,Support
+3120114607,33,Radiant,Enigma,Jungle,Core
+3120114607,17,Radiant,Storm Spirit,Mid,Core
+3120114607,101,Dire,Skywrath Mage,Mid,Core
+3120114607,16,Dire,Sand King,Jungle,Core
+3120114607,30,Dire,Witch Doctor,Safe,Support
+3120114607,93,Dire,Slark,Safe,Core
+3120114607,98,Dire,Timbersaw,Off,Core
+3120115603,107,Radiant,Earth Spirit,Roamer,Support
+3120115603,90,Radiant,Keeper of the Light,Safe,Support
+3120115603,63,Radiant,Weaver,Safe,Core
+3120115603,51,Radiant,Clockwerk,Off,Core
+3120115603,74,Radiant,Invoker,Mid,Core
+3120115603,28,Dire,Slardar,Off,Core
+3120115603,44,Dire,Phantom Assassin,Safe,Core
+3120115603,14,Dire,Pudge,Roamer,Support
+3120115603,103,Dire,Elder Titan,Safe,Support
+3120115603,11,Dire,Shadow Fiend,Mid,Core
+3120118400,9,Radiant,Mirana,Jungle,Core
+3120118400,6,Radiant,Drow Ranger,Safe,Core
+3120118400,30,Radiant,Witch Doctor,Safe,Support
+3120118400,53,Radiant,Nature's Prophet,Off,Core
+3120118400,11,Radiant,Shadow Fiend,Mid,Core
+3120118400,95,Dire,Troll Warlord,Safe,Core
+3120118400,74,Dire,Invoker,Mid,Core
+3120118400,88,Dire,Nyx Assassin,Off,Core
+3120118400,86,Dire,Rubick,Roamer,Support
+3120118400,84,Dire,Ogre Magi,Safe,Support
+3120121005,53,Radiant,Nature's Prophet,Off,Core
+3120121005,107,Radiant,Earth Spirit,Roamer,Support
+3120121005,40,Radiant,Venomancer,Jungle,Core
+3120121005,25,Radiant,Lina,Mid,Core
+3120121005,8,Radiant,Juggernaut,Safe,Core
+3120121005,33,Dire,Enigma,Off,Core
+3120121005,11,Dire,Shadow Fiend,Mid,Core
+3120121005,67,Dire,Spectre,Safe,Core
+3120121005,114,Dire,Monkey King,Roamer,Support
+3120121005,34,Dire,Tinker,Jungle,Core
+3120121109,74,Radiant,Invoker,Mid,Core
+3120121109,14,Radiant,Pudge,Off,Core
+3120121109,109,Radiant,Terrorblade,Safe,Core
+3120121109,83,Radiant,Treant Protector,Off,Support
+3120121109,50,Radiant,Dazzle,Safe,Support
+3120121109,54,Dire,Lifestealer,Safe,Core
+3120121109,11,Dire,Shadow Fiend,Mid,Core
+3120121109,2,Dire,Axe,Off,Support
+3120121109,71,Dire,Spirit Breaker,Roamer,Support
+3120121109,104,Dire,Legion Commander,Off,Core
+3120121907,95,Radiant,Troll Warlord,Safe,Core
+3120121907,13,Radiant,Puck,Off,Core
+3120121907,104,Radiant,Legion Commander,Jungle,Core
+3120121907,101,Radiant,Skywrath Mage,Safe,Support
+3120121907,17,Radiant,Storm Spirit,Mid,Core
+3120121907,50,Dire,Dazzle,Safe,Support
+3120121907,97,Dire,Magnus,Jungle,Core
+3120121907,44,Dire,Phantom Assassin,Safe,Core
+3120121907,28,Dire,Slardar,Off,Core
+3120121907,74,Dire,Invoker,Mid,Core
+3120124809,42,Radiant,Wraith King,Safe,Core
+3120124809,63,Radiant,Weaver,Off,Core
+3120124809,34,Radiant,Tinker,Mid,Core
+3120124809,14,Radiant,Pudge,Safe,Support
+3120124809,62,Radiant,Bounty Hunter,Roamer,Support
+3120124809,54,Dire,Lifestealer,Safe,Core
+3120124809,97,Dire,Magnus,Off,Core
+3120124809,86,Dire,Rubick,Safe,Support
+3120124809,15,Dire,Razor,Mid,Core
+3120124809,4,Dire,Bloodseeker,Jungle,Core
+3120131801,104,Radiant,Legion Commander,Off,Core
+3120131801,92,Radiant,Visage,Safe,Support
+3120131801,86,Radiant,Rubick,Roamer,Support
+3120131801,8,Radiant,Juggernaut,Safe,Core
+3120131801,74,Radiant,Invoker,Mid,Core
+3120131801,95,Dire,Troll Warlord,Safe,Core
+3120131801,39,Dire,Queen of Pain,Mid,Core
+3120131801,30,Dire,Witch Doctor,Safe,Support
+3120131801,2,Dire,Axe,Off,Core
+3120131801,28,Dire,Slardar,Safe,Support
+3120137702,85,Radiant,Undying,Off,Core
+3120137702,74,Radiant,Invoker,Mid,Core
+3120137702,14,Radiant,Pudge,Off,Support
+3120137702,1,Radiant,Anti-Mage,Safe,Core
+3120137702,26,Radiant,Lion,Safe,Support
+3120137702,5,Dire,Crystal Maiden,Safe,Support
+3120137702,100,Dire,Tusk,Off,Core
+3120137702,41,Dire,Faceless Void,Mid,Core
+3120137702,63,Dire,Weaver,Safe,Core
+3120137702,16,Dire,Sand King,Jungle,Core
+3120144905,110,Radiant,Phoenix,Off,Core
+3120144905,74,Radiant,Invoker,Mid,Core
+3120144905,28,Radiant,Slardar,Roamer,Support
+3120144905,67,Radiant,Spectre,Safe,Core
+3120144905,79,Radiant,Shadow Demon,Safe,Support
+3120144905,34,Dire,Tinker,Mid,Core
+3120144905,44,Dire,Phantom Assassin,Roamer,Support
+3120144905,53,Dire,Nature's Prophet,Off,Core
+3120144905,86,Dire,Rubick,Safe,Support
+3120144905,54,Dire,Lifestealer,Safe,Core
+3120147301,2,Radiant,Axe,Off,Core
+3120147301,67,Radiant,Spectre,Safe,Core
+3120147301,26,Radiant,Lion,Safe,Support
+3120147301,33,Radiant,Enigma,Jungle,Core
+3120147301,13,Radiant,Puck,Mid,Core
+3120147301,84,Dire,Ogre Magi,Safe,Support
+3120147301,104,Dire,Legion Commander,Mid,Core
+3120147301,48,Dire,Luna,Safe,Core
+3120147301,111,Dire,Oracle,Safe,Support
+3120147301,55,Dire,Dark Seer,Off,Core
+3120151402,93,Radiant,Slark,Safe,Core
+3120151402,87,Radiant,Disruptor,Safe,Support
+3120151402,88,Radiant,Nyx Assassin,Off,Core
+3120151402,14,Radiant,Pudge,Roamer,Support
+3120151402,74,Radiant,Invoker,Mid,Core
+3120151402,8,Dire,Juggernaut,Safe,Core
+3120151402,92,Dire,Visage,Safe,Support
+3120151402,100,Dire,Tusk,Roamer,Support
+3120151402,76,Dire,Outworld Devourer,Mid,Core
+3120151402,99,Dire,Bristleback,Off,Core
